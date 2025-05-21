@@ -1,10 +1,10 @@
 # Machine Learning Projects
 
-Welcome to my ML-Projects repository! 👋
+Welcome to my **ML-Projects** repository! 👋
 
 ## About
 
-This repository is a collection of machine learning projects that I have completed as an entry-level data scientist. Each folder contains a standalone project that demonstrates my understanding of data science concepts, programming in Python, and the application of machine learning algorithms to real-world datasets.
+This repository showcases a collection of machine learning projects completed as part of my journey as an entry-level data scientist. Each folder contains a standalone project demonstrating my skills in data analysis, machine learning, and deep learning techniques.
 
 ## Table of Contents
 
@@ -20,21 +20,20 @@ This repository is a collection of machine learning projects that I have complet
 
 Below are the projects currently included in this repository:
 
-1. **Project 1:** _[Bank Churn Prediction]_  
-   - In this project, i had to build a Neural Network Model that would be able to predict whether a custormer of a Bank
-   would churn or not. I did try to experiment with some different optimizers in an attempt to fine tune the model and get the best possible accuracy.
+1. **Bank Churn Prediction**  
+   Developed a Neural Network model to predict whether a bank customer would churn. The project involved experimenting with various optimizers to fine-tune the model and achieve optimal accuracy.
 
-2. **Project 2:** _[Credit Card Users Churn Prediction]_  
-   - In this project I had to apply my understanding of ensemble learning techniques to try to create a model that would predict whether credit card custormers would churn or not based on the given data.
+2. **Credit Card Users Churn Prediction**  
+   Applied ensemble learning techniques to predict credit card customer churn based on provided data. Explored and compared different ensemble methods for improved model performance.
 
-3. **Project 3:** _[Food Hub Data Analysis]_  
-   - This is my very first Project as a Data Scientist. I had to do some EDA on data provided by an app called FoodHub. After said EDA, I had to provide some insights on some stuff I saw to be hindering performing and ways they can achieve better performance.
+3. **Food Hub Data Analysis**  
+   Conducted exploratory data analysis (EDA) on data from the FoodHub app. Provided actionable insights and identified key factors hindering business growth.
 
-4. **Project 4:** _[Loan Modeling Project]_  
-   - In this project i had to predict whether a liability customer will buy personal loans using a Decision Tree Classifier. I also had apply some EDA to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
+4. **Loan Modeling Project**  
+   Built a Decision Tree Classifier to predict whether a liability customer would purchase a personal loan. Incorporated EDA to determine the most influential customer attributes.
 
-5. **Project 5:** _[Plant Seedling Classification]_  
-   - This is my first Computer Vision Project. My Job was to build a Convoluted Neural Network to classify plant Seedlings into their respective categories.
+5. **Plant Seedling Classification**  
+   Developed a Convolutional Neural Network (CNN) for image classification, categorizing plant seedlings into their respective classes. This project marked my introduction to computer vision.
 
 ## Technologies Used
 
@@ -44,49 +43,14 @@ Below are the projects currently included in this repository:
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Tensorflow
-- Ensemble Learning techniques (RandomForest, XGBOOST, Gradient Boost etc)
+- TensorFlow
+- Ensemble Learning Techniques (RandomForest, XGBoost, Gradient Boosting, etc.)
 
 ## Getting Started
 
-To run any of these projects on your local machine, follow these steps:
+To run any of these projects locally, follow these steps:
 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/gilquarshie/ML-Projects.git
    cd ML-Projects
-   ```
-
-2. **Set up a virtual environment (optional but recommended):**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Navigate to the project folder of interest and follow its README or notebook instructions.**
-
-## How to Use
-
-- Each project folder contains a README or a Jupyter Notebook with step-by-step instructions.
-- Datasets (if not included) are referenced with download links or instructions.
-- Feel free to explore, run, and modify the code!
-
-## Contributing
-
-Contributions are welcome! If you find an issue or want to suggest an improvement, please open an issue or submit a pull request.
-
-## Contact
-
-If you have any questions or want to connect, feel free to reach out:
-
-- GitHub: [gilquarshie](https://github.com/gilquarshie)
-- Email: [gilquarshie@gmail.com]
-
----
-
-_Thank you for visiting my ML-Projects repository!_
